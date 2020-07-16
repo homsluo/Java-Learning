@@ -1,5 +1,13 @@
 # Microservices
 ---
-**Monolithic Architecture**
+**Monolithic Architecture** :Deployed on single server
 
-Difficult to deploy big application
+1.Difficult to deploy big application.
+2.Scalability
+
+---
+**Microservices** :Deployed on many servers and consist the whole application
+
+1.Deployment flexibility
+2.Technology flexibility
+3.Can be scaled separately

@@ -2,6 +2,6 @@
 ---
 
 ## Rules:
-**(1)**Class must be public：Every object can communicate
+**(1)** Class must be public：Every object can communicate
 
 **(2)**

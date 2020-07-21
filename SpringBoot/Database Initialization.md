@@ -9,5 +9,7 @@ Types of SQL Languages:
 ```
 
 ## Initialize Using JPA
-- JPA has features for DDL generation through two external properties:
-  ```spring.jpa.generate-ddl``` switches
+- JPA has features for DDL generation through two external properties:  
+  ```spring.jpa.generate-ddl``` (boolean) switches the feature on and off.  
+  ```spring.jpa.hibernate.ddl-auto```(enum) is a Hibernate feature that controls the behavior in a more  
+  fine-grained way.

@@ -1,4 +1,6 @@
-<font size = "+3">  
+<font size = "+10">  
+  
+  
 # Database Initialization
 
 ```

@@ -1,3 +1,4 @@
+<font size = "+1">
 # Database Initialization
 
 ```
@@ -27,3 +28,4 @@ Based on your database is embedded or not(```hsqldb```,```h2```,```derby``` are 
   + Spring Boot enables the failfast feature of the Spring JDBC initializer by default, so if the scripts cause exceptions  
     the application will fail to start. The script locations can be changed by setting ```spring.datasource.schema``` and  
     ```spring.datasource.data```, and neither location will be processed if ```spring.datasource.initialize=false```.
+</font>
